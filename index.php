@@ -1,3 +1,3 @@
 <?php
-echo "Daraja Api By Firmstack  tech Limited"
-?
+echo "Daraja Api By Firmstack  Tech Limited"
+?>
